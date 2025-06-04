@@ -1,3 +1,5 @@
+print("Mirë se vini në programin për llogaritjen e shumës!")
+
 def llogarit_shumen(a, b):
     return a + b
 
